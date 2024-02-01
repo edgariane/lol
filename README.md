@@ -55,7 +55,7 @@
           </div>
         </div>
       </nav>
-      <div class="page-header section-dark" style="background-image:url(###############################################)">
+      <div class="page-header section-dark" style="background-image:url(steamuserimages-a.akamaihd.gif)">
         <div class="filter"></div>
         <div class="content-center">
           <div class="container">
