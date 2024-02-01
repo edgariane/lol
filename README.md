@@ -30,7 +30,6 @@
 </head>
 <body>
     <div id="gifContainer">
-        <!-- Pfad zum GIF anpassen -->
         <img src="steamuserimages-a.akamaihd.gif" alt="LOL sheint so als hättest du scheiß Internet">
     </div>
   <div id="content">
