@@ -55,7 +55,7 @@
           </div>
         </div>
       </nav>
-      <div class="page-header section-dark" style="background-image:url(/static/media/hex.26174f99.webp)">
+      <div class="page-header section-dark" style="background-image:url(###############################################)">
         <div class="filter"></div>
         <div class="content-center">
           <div class="container">
