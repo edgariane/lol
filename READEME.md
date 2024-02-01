@@ -1,26 +1,26 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-    <link href="/favicon.svg" rel="icon" type="image/svg+xml">
-    <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-    <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-    <link href="/site.webmanifest" rel="manifest">
-    <link href="/safari-pinned-tab.svg" rel="mask-icon" color="#000000">
-    <meta content="Trojan Source" name="apple-mobile-web-app-title">
-    <meta content="Trojan Source" name="application-name">
-    <meta content="#ffffff" name="msapplication-TileColor">
-    <meta content="#000000" name="theme-color">
-    <meta content="width=device-width,initial-scale=1" name="viewport">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+      <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+      <link href="/favicon.svg" rel="icon" type="image/svg+xml">
+      <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+      <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+      <link href="/site.webmanifest" rel="manifest">
+      <link href="/safari-pinned-tab.svg" rel="mask-icon" color="#000000">
+        <meta content="Trojan Source" name="apple-mobile-web-app-title">
+        <meta content="Trojan Source" name="application-name">
+        <meta content="#ffffff" name="msapplication-TileColor">
+        <meta content="#000000" name="theme-color">
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <title>Trojan Source Attacks</title>
-    <meta content="Some vulnerabilities are invisible. Rather than inserting logical bugs, adversaries can attack the encoding of source code files to inject vulnerabilities." name="description">
-    <link href="/static/css/2.95429190.chunk.css" rel="stylesheet"><link href="/static/css/main.c7e714fa.chunk.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com" rel="preconnect">
-    <link href="https://fonts.googleapis.com" rel="preconnect">
-    <link href="https://fonts.gstatic.com" rel="preconnect">
-    <link href="https://sa.trojansource.codes" rel="preconnect">
+        <meta content="Some vulnerabilities are invisible. Rather than inserting logical bugs, adversaries can attack the encoding of source code files to inject vulnerabilities." name="description">
+      <link href="/static/css/2.95429190.chunk.css" rel="stylesheet"><link href="/static/css/main.c7e714fa.chunk.css" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com" rel="preconnect">
+      <link href="https://fonts.googleapis.com" rel="preconnect">
+      <link href="https://fonts.gstatic.com" rel="preconnect">
+      <link href="https://sa.trojansource.codes" rel="preconnect">
   </head>
   <body class="sidebar-collapse index">
     <noscript>You need to enable JavaScript to run this app.</noscript>
