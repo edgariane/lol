@@ -32,7 +32,7 @@
 <body>
     <div id="gifContainer">
         <!-- Pfad zum GIF anpassen -->
-        <img src="dein-gif.gif" alt="Hintergrund-GIF">
+        <img src="steamuserimages-a.akamaihd.gif" alt="LOL sheint so als hättest du scheiß Internet">
     </div>
   <div id="content">
         <!-- Inhalt deiner ersten Seite -->
